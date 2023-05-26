@@ -1,0 +1,15 @@
+[
+    {
+      "Author": "UnknownX",
+      "Name": "ReAction",
+      "InternalName": "ReAction",
+      "AssemblyVersion": "1.3.3.3",
+      "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/UnknownX7/ReAction",
+      "DalamudApiLevel": 8,    
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/zfxsquare/DalamudPlugins/main/Plugins/Reaction/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/zfxsquare/DalamudPlugins/main/Plugins/Reaction/latest.zip",
+      "Punchline": "QoL for the battle system."    
+    }  
+  ]
