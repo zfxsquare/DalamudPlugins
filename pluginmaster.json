@@ -11,5 +11,23 @@
       "DownloadLinkInstall": "https://raw.githubusercontent.com/zfxsquare/DalamudPlugins/main/Plugins/Reaction/latest.zip",
       "DownloadLinkUpdate": "https://raw.githubusercontent.com/zfxsquare/DalamudPlugins/main/Plugins/Reaction/latest.zip",
       "Punchline": "QoL for the battle system."    
+    },
+    {
+      "Author": "Sbago",
+      "Name": "要啥自行车",
+      "InternalName": "YaoShaZiXingCHE",
+      "AssemblyVersion": "0.0.0.1",
+      "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "sample",
+        "plugin",
+        "goats"
+      ],
+      "DalamudApiLevel": 8,      
+      "LoadPriority": 0,
+      "Punchline": "A short one-liner that shows up in /xlplugins.",
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/zfxsquare/DalamudPlugins/global/Plugins/YaoShaZiXingCHE/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/zfxsquare/DalamudPlugins/global/Plugins/YaoShaZiXingCHE/latest.zip"      
     }  
   ]
