@@ -16,7 +16,7 @@
       "Author": "Sbago",
       "Name": "要啥自行车",
       "InternalName": "YaoShaZiXingCHE",
-      "AssemblyVersion": "0.0.0.2",
+      "AssemblyVersion": "0.0.0.3",
       "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
       "ApplicableVersion": "any",
       "Tags": [
