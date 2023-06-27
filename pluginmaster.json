@@ -15,7 +15,7 @@
         "DownloadLinkTesting": "https://github.com/zfxsquare/DalamudPlugins/raw/main/plugins/BetterPartyFinder/latest.zip",
         "DownloadLinkUpdate": "https://github.com/zfxsquare/DalamudPlugins/raw/main/plugins/BetterPartyFinder/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687776160"
+        "LastUpdate": "1687840581"
     },
     {
         "Author": "Sbago",
@@ -37,7 +37,7 @@
         "DownloadLinkTesting": "https://github.com/zfxsquare/DalamudPlugins/raw/main/plugins/YaoShaZiXingCHE/latest.zip",
         "DownloadLinkUpdate": "https://github.com/zfxsquare/DalamudPlugins/raw/main/plugins/YaoShaZiXingCHE/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687776160"
+        "LastUpdate": "1687840581"
     },
     {
         "Author": "Fra",
@@ -45,7 +45,7 @@
         "Punchline": "潜艇练级小工具",
         "Description": "帮你查询www.mogship.com获得最优路线",
         "InternalName": "ss",
-        "AssemblyVersion": "0.0.0.2",
+        "AssemblyVersion": "0.0.0.3",
         "ApplicableVersion": "any",
         "Tags": [
             "submarine"
@@ -57,7 +57,7 @@
         "DownloadLinkTesting": "https://github.com/zfxsquare/DalamudPlugins/raw/main/plugins/ss/latest.zip",
         "DownloadLinkUpdate": "https://github.com/zfxsquare/DalamudPlugins/raw/main/plugins/ss/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687776160"
+        "LastUpdate": "1687840581"
     },
     {
         "Author": "NightmareXIV",
@@ -82,7 +82,7 @@
         "DownloadLinkTesting": "https://github.com/zfxsquare/DalamudPlugins/raw/main/plugins/SplatoonX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/zfxsquare/DalamudPlugins/raw/main/plugins/SplatoonX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687776160"
+        "LastUpdate": "1687840581"
     },
     {
         "Author": "кайт машина (Puni.sh)",
@@ -101,7 +101,7 @@
         "DownloadLinkTesting": "https://github.com/zfxsquare/DalamudPlugins/raw/main/plugins/Orbwalker/latest.zip",
         "DownloadLinkUpdate": "https://github.com/zfxsquare/DalamudPlugins/raw/main/plugins/Orbwalker/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687776160"
+        "LastUpdate": "1687840581"
     },
     {
         "Author": "UnknownX",
@@ -124,6 +124,6 @@
         "DownloadLinkTesting": "https://github.com/zfxsquare/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/zfxsquare/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687776160"
+        "LastUpdate": "1687840581"
     }
 ]
