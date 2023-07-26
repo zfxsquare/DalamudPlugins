@@ -1,0 +1,17 @@
+{
+  "Author": "Fra",
+  "Name": "SS",
+  "InternalName": "ss",
+  "AssemblyVersion": "0.0.0.3",
+  "Description": "帮你查询www.mogship.com获得最优路线",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "submarine"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "潜艇练级小工具",
+  "AcceptsFeedback": true
+}
