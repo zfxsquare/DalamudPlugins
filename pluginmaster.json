@@ -1,6 +1,6 @@
 [
     {
-        "Author": "zfxsquare",
+        "Author": "Kouzukii",
         "Name": "Death Recap",
         "InternalName": "DeathRecap",
         "AssemblyVersion": "1.13.4.0",
@@ -15,7 +15,7 @@
         "DalamudApiLevel": 15,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/zfxsquare/DalamudPlugins/main/icons/deathrecap.png",
-        "Punchline": "死亡回顾，Abs.Time 从战斗开始计时。",
+        "Punchline": "死亡回顾",
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://github.com/zfxsquare/ffxiv-deathrecap/releases/download/v1.13.4.0/DeathRecap.zip",
         "DownloadLinkUpdate": "https://github.com/zfxsquare/ffxiv-deathrecap/releases/download/v1.13.4.0/DeathRecap.zip"
